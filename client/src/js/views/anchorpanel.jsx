@@ -28,7 +28,7 @@ var AnchorPanelView = {
   /**
    * Get initial state.
    * @instance
-   * @return {object}
+   * @return {object}asdasd
    */
   getInitialState: function() {
     return {
